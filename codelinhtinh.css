@@ -1,12 +1,39 @@
 *{
     text-align: center;
 }
-#header{
-    text-align: center;
+#table1{
+    color:black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: green;
     
    height:74px
+
+
+}
+#h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:black;
+    
+   height:85px
+}
+#table2{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+#table3{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:darkgray;
+}
+#table4{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    background-color: black;
 
 
 }
