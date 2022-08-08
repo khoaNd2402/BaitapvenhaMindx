@@ -1,0 +1,36 @@
+.div1{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-around;
+    
+    
+    
+}
+.div1 li{
+    display: block;
+    justify-content: space-around;
+}
+#li1{
+    justify-content: flex-start;
+    color:aliceblue;
+    
+    }
+#li2{
+    justify-content: flex-end;
+}
+
+
+
+.div2{
+    display: flex;
+    
+    background-color: black;
+    color:aliceblue;
+    
+}
+.div2 li{
+    display: block;
+    justify-content: space-around;
+    text-decoration: none;
+    
+}
